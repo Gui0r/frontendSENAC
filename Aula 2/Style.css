@@ -1,0 +1,57 @@
+header{
+    background-color: cyan;
+    text-align: center;
+}
+
+th{
+    color: gray
+}
+
+td{
+    color:gray
+}
+
+a{
+    display: ruby-text;
+}
+
+main{
+    background-color: whitesmoke;
+    cursor: crosshair
+}
+
+footer{
+    text-align: center;
+    background-color: cyan;
+}
+div#tabelaPrincipal, div#imagens{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: tan;
+}
+
+div#lista{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: tan;
+}
+
+table#tabela1{
+    border: 1px solid black(139, 121, 121);
+    text-align: center;
+}
+
+th, td{
+    border: 1px solid whitesmoke;
+}
+body{
+    justify-content: center;
+    text-align: center;
+    background-color: black;
+}
+a#terraria{
+    text-align: center;
+    justify-content: center;
+}
