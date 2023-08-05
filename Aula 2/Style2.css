@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+}
+h3, h4, h2{
+    color: whitesmoke;
+}
+h1{
+    color: black;
+}
+
+header{
+    text-align: center;
+    background-color:cyan;
+    color: black;
+}
+
+div#imagemdeboasvindas{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1#txt{
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+p#titulos{
+    justify-content: center;
+    text-align: center;
+    color: black
+}
+a#terraria{
+    align-items: center;
+    justify-content: center;
+}
+
+th, td{
+    text-align: center;
+    align-items: center;
+    border: 1px solid whitesmoke;
+    color: white;
+
+}
+
+table{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
